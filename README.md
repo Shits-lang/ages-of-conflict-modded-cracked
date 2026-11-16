@@ -14,8 +14,8 @@ War reimagined
 
 "
 
- credit to steamrip and steam unlocked for supplying the crack so I can make pre modded and cracked possible I do check of files are safe before uploading btw also credit to liteapk and 9mod for the android crack
-
+ credit to steamrip and  for supplying the crack so I can make pre modded and cracked possible I do check of files are safe before uploading btw also credit to liteapk and 9mod for the android crack
+ive found out abt the dangers of steam unlocked and will not be using it
 Android: v4.5.2
 
 Windows: 4.5.0 (android don't support mods and 4.5.0 and 4.5.2 are identical and also mods don't support 4.5.2 yet)

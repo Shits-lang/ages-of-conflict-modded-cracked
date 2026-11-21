@@ -7,6 +7,7 @@ contours of conflict
 War reimagined 
 horizons of conflict
 frontiers 
+navalinvasions
 "
 
  credit to steamrip and  for supplying the crack so I can make pre modded and cracked possible I do check of files are safe before uploading btw also credit to liteapk and 9mod for the android crack
@@ -27,4 +28,4 @@ make sure the file manager u using allows unknown source download permission tho
 windows/linux steps " if ur on windows click the bat file called start-ages of-conflict if Ur on Linux chmod +x the sh file called linux-launch then run the sh file but for it to work u do need wine 
 
 notice i do not support piracy this is only for me and my friends  this project is only for me and my friends as we own ther game we bought the game were simpley archving our copys here if u guessed the link do not install piracy is a serious matter and is illegal under the copyright act
-developer note for v5 " debloated and added more senerios and mods i hope u like im sorry for my bad spelling"
+developer note for v5.1 "dam"

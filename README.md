@@ -27,7 +27,7 @@ Windows: 4.5.0 (android don't support mods and 4.5.0 and 4.5.2 are identical and
 Comment if u have ratings or want to tell me to update the version on android or windows and windows mods or if u want me to add more content
 
 Read all the things called readme.txt and howtouse.txt and NOTICE.txt as they contain useful information 
-to run the game extract the .rar file using winrar or a different rar extractor that supports rar5 1gb dictionary when it's done find the windows (supports Linux through wine) folder if Ur on pc if on android go to te android folder
+to run the game extract the .7z file using 7zip or a different 7z extractor that supports 7z ultra compresion when it's done find the windows (supports Linux through wine) folder if Ur on pc if on android go to the android folder
 
 android steps "
 

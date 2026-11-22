@@ -39,3 +39,4 @@ windows/linux steps " if ur on windows click the bat file called start-ages of-c
 i dont think this will be taken down and if it does i make new repo so i do infact support piracy the old warning against piracy was so that it wouldnt get banned but i aint to worried abt it anymore so pirate away
 
 developer note for v6 "hi shits-lang here i love piracy :)"
+in the werid event this gets taken down i will put a gofile link with the latest ages of conflict cracked modded as a backup mirror in my bio if the link isnt in my bio its a sign that mmy repo is fucked

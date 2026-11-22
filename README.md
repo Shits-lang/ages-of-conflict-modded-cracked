@@ -38,4 +38,4 @@ windows/linux steps " if ur on windows click the bat file called start-ages of-c
 
 i dont think this will be taken down and if it does i make new repo so i do infact support piracy the old warning against piracy was so that it wouldnt get banned but i aint to worried abt it anymore so pirate away
 
-developer note for v5.1 "dam"
+developer note for v6 "hi shits-lang here i love piracy :)"

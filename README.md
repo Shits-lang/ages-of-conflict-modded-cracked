@@ -1,12 +1,20 @@
 it's a cracked pre modded version on aoc basically 
 mods include "
+
 determinismv2
+
 skepticssilliermodpack4
+
 provinces of conflict
+
 contours of conflict
+
 War reimagined 
+
 horizons of conflict
+
 frontiers 
+
 navalinvasions
 "
 

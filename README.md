@@ -35,5 +35,6 @@ make sure the file manager u using allows unknown source download permission tho
 
 windows/linux steps " if ur on windows click the bat file called start-ages of-conflict if Ur on Linux chmod +x the sh file called linux-launch then run the sh file but for it to work u do need wine 
 
-notice i do not support piracy this is only for me and my friends  this project is only for me and my friends as we own ther game we bought the game were simpley archving our copys here if u guessed the link do not install piracy is a serious matter and is illegal under the copyright act
+
+i dont think this will be taken down and if it does i make new repo so i do infact support piracy the old warning against piracy was so that it wouldnt get banned but i aint to worried abt it anymore so pirate away
 developer note for v5.1 "dam"
